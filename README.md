@@ -81,8 +81,9 @@
 ---
 
 ## 🔥 Featured Projects  
+🚀 **[FutFan - TFG](https://github.com/AlonsoSMdV/FutFan_tfg)** - A project that includes an app with ionic and angular and anohter app in android, the repositories of both apps are below.  
 🚀 **[FutFan - TypeScript](https://github.com/AlonsoSMdV/FootballAdminApp)** - Football league, team, player, and match management app built with Ionic, Angular, and Firebase database.  
-🚀 **[FutFan - Android](https://github.com/AlonsoSMdV/FootballAndroidApp_AlonsoSanchez)** - Android version of the previous project using Kotlin and a local database with Room.  
+🚀 **[FutFan - Android](https://github.com/AlonsoSMdV/FootballCompsAndoridV2)** - Android version of the previous project using Kotlin and a local database with Room.  
 🚀 **[BlackJack](https://github.com/AlonsoSMdV/Proyecto_JSP)** - Digital version of Blackjack that keeps track of the player's wins and losses.  
 
 ---
